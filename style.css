@@ -378,3 +378,225 @@ padding:132px 217px 132px 217px;
 
 
 /*Design for why choose us section */
+.why
+{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.with   
+{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size:1rem;
+    font-style: normal;
+    font-weight: 400;
+     padding:0px 180px 0px 180px;
+
+}
+
+.choose-img
+{
+    width:3.5rem;
+    height:3rem;
+    padding-left:1.25rem;
+}
+.choose-title
+{
+    color: #131318;
+     text-align:left;
+    font-family: Mulish;
+    font-size:1.5rem;
+    font-style: normal;
+    font-weight: 800;
+     
+    padding-left:1.25rem;
+}
+.choose-content
+{
+    color: #5A5A5D;
+    text-align:left;
+    font-family: Mulish;
+    font-size:1rem;
+    font-style: normal;
+    font-weight: 400;
+    padding-left:1.25rem;
+     
+}
+
+.background-1
+{
+border-radius:1rem;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+ 
+}
+
+.background-2
+{
+
+border-radius:1rem;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
+
+}
+
+.choose-grid
+{
+    display:grid;
+    grid-template-columns:30rem 30rem ;
+    column-gap:.625rem;
+}
+
+.background-3
+{
+    border-radius:1rem;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    margin: 1rem 12.5rem 1rem 12.5rem;
+     
+
+}
+
+/* Design for deals and discount section */
+
+ .deals-nav
+ {
+color: #5A5A5D;
+font-family: Mulish;
+font-size:1rem;
+font-style: normal;
+font-weight: 400;
+ 
+ }
+ .deals-title
+ {
+color: #131318;
+font-family: Mulish;
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 800;
+ 
+ }
+
+ .deals-content
+ {
+color: #5A5A5D;
+font-family: Mulish;
+font-size:1rem;
+font-style: normal;
+font-weight: 400;
+ 
+ }
+
+ .deals-flex
+ {
+display:flex;
+gap:.8rem;
+ }
+ .background-color
+ {
+border-radius: 16px;
+border: 2px solid #FFF;
+background: rgba(255, 255, 255, 0.80);
+backdrop-filter: blur(2.5px);
+
+    
+
+    
+   margin:100px 35px 100px 500px;
+   padding:40px;
+ }
+
+ .for-background
+ {
+background-image: url('Group\ 39.png');
+background-size: cover; 
+background-position: center;
+background-repeat: no-repeat; 
+border-radius: 16px;
+ }
+ .price
+ {
+color: #FF5400;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+ }
+
+ .for-background-2
+ {
+    background-image: url('Group\ 40.png');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    border-radius: 16px;
+
+ }
+
+ .background-color-2
+ {
+
+    border-radius: 16px;
+border: 2px solid #FFF;
+background: rgba(255, 255, 255, 0.80);
+backdrop-filter: blur(2.5px);
+ 
+   margin:100px 500px 100px 35px;
+   padding:40px;
+
+ }
+ .package
+ {
+    margin-left: 400px;
+ }
+
+
+ /*Design for a simple perfect plAce */
+ .simple-title
+ {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 60px; /* 150% */
+ }
+
+ .simple-article
+ {
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+ }
+
+ .simple-example
+ {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 162.5% */
+ }
+
+ .perfect-flex
+ {
+    display:flex;
+    gap:2rem;
+ }
+ .vidio-div
+ {
+    margin-top: 50px;
+     
+ }
